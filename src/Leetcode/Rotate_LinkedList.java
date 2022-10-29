@@ -7,6 +7,7 @@ public class Rotate_LinkedList {
         ListNode temp = head;
         int len = 1;
         if(head == null) return head;
+        //finding length
         while(newTail.next != null){
             newTail = newTail.next;
             len++;   
