@@ -23,7 +23,7 @@ public class Longest_Substring_without_repeatating_characters {
         
         
         /*
-        //Approach2, using hashmap
+        //Approach2, using hashmap, T.C : O(n), S.C: O(n)
         HashMap<Character, Integer> map = new HashMap<>();
         int n = s.length();
         int len = 0;
