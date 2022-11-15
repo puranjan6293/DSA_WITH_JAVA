@@ -1,6 +1,6 @@
 package Leetcode;
-import java.util.*;
 public class combinationSum_II {
+    /*
     public List<List<Integer>> combinationSum2(int[] cand, int target) {
         Arrays.sort(cand);
         List<List<Integer>> res = new ArrayList<List<Integer>>();
@@ -21,4 +21,5 @@ public class combinationSum_II {
             path.remove(path.size()-1);
         }
     }
+    */
 }
